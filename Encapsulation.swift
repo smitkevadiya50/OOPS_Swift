@@ -1,5 +1,7 @@
 /*
-In this example, productId, productName, and productPrice are encapsulated inside the Product class. We can interact with these properties using the provided methods such as calculateDiscountedPrice() and displayProductDetails(). This follows the principle of encapsulation as the actual data is hidden and only accessible via methods of the current class.
+In this example, productId, productName, and productPrice are encapsulated inside the Product class. 
+We can interact with these properties using the provided methods such as calculateDiscountedPrice() and displayProductDetails(). 
+This follows the principle of encapsulation as the actual data is hidden and only accessible via methods of the current class.
 */
 
 class Product {
